@@ -1,0 +1,5 @@
+{
+  "name": "Motor de Aventuras Infinitas",
+  "description": "Un juego de elige tu propia aventura basado en texto y potenciado por Gemini. Tus elecciones alteran genuinamente la trama, con imágenes generadas por IA para cada escena y una barra lateral dinámica que sigue tu inventario y misiones.",
+  "requestFramePermissions": []
+}
